@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="searchPriceFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-09T16:21:28" hostname="illmonks-MacBook-Pro-2.local" time="6.611">
+  <properties/>
+  <testcase name="Can navigate to AutoHero Search Page" classname="searchPriceFilterTest" time="6.611"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363) on port 27449
+Only local connections are allowed.
+Sep 09, 2018 7:21:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
